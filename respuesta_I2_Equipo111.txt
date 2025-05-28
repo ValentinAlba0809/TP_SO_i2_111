@@ -1,5 +1,5 @@
-a.
-b.
+a. para actualizar su Fork, vas a tu repositorio y usas el botón Synk Fork y le das al bono verde, y ya te actualiza el Fork
+b. no, ALfa no puede actualizar su Fork al estado del Fork de Gama
 c.
 d.
 e.
